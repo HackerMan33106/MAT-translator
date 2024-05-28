@@ -1,17 +1,40 @@
-# MAT переводчик
 
-Minecraft Automatic Translator - это программа для автоматического перевода модов в minecraft.
+![4fd49603-4d36-45d8-acef-c2a7fa397518](https://github.com/HackerMan33106/MAT-translator/assets/138781082/94e1a9f2-98a6-4024-bf44-ddeef83c3a62)
 
-Для того чтобы использовать эту программу, вам необходимо получить файл локализации из мода.
+<h1 align="center">Albion Radar</h1>
 
-# ❗ПРОГРАММА НЕ ПЕРЕВОДИТ ИДЕАЛЬНО❗
+<p align="center">
+  <b>Albion Online minimap and radar tool, helping you navigate the world of Albion with ease.</b>
+</p>
 
-MAT не может переводит всё и правильно она может допускать ошибки и не переводить некоторые части текста. Из-за того что эта программа не идеальна, как и всё в этом мире.
+---
 
-# 💢Проблема и её решение💢
+## 🚀 Download Albion Radar
 
-Может быть проблема с лицензией на библиотеку которую я использую для интерфейса 2 версии MAT.
+- **Latest Version:** [Download Now](https://your-download-link-here)
+- **GitHub Repository:** [View on GitHub](https://github.com/your-username/albion-radar)
 
-Вот видео которое поможет её решить:
+---
 
-https://github.com/HackerMan33106/MAT-translator/assets/138781082/d3ace472-03e3-41a5-af07-8c6a5abbdc9b
+## 📚 Resources
+
+- [Albion Radar Documentation](https://your-documentation-link-here)
+- [Albion Online Official Website](https://albiononline.com)
+
+---
+
+## 💡 Tips and Tricks
+
+- **Minimap Customization:** Customize the minimap to show resources, mobs, or other points of interest.
+- **User Settings:** Adjust radar settings to suit your playstyle, including range and filter options.
+- **Integration:** Integrate Albion Radar with other tools or overlays for a complete gaming experience.
+- **Community Plugins:** Explore community plugins to enhance the functionality of Albion Radar.
+
+---
+
+## 📷 Showcase
+
+Share your adventures using Albion Radar! Use the hashtag #AlbionRadarAdventures on social media to showcase your best moments.
+
+---
+
